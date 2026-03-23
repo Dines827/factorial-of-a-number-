@@ -65,6 +65,6 @@ RESULT
 
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
 
----
+---.
 
 
